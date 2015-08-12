@@ -14,7 +14,7 @@ class SimpleNumber:
         return val
         
     def add(self, y):
-        result = self.x + self.is_number(y)
+        result = self.x + y
 
         return result
 

@@ -9,7 +9,7 @@ class SimpleNumber:
         self.x = num
   
     def add(self, y):
-        result = self.x + y
+        result = self.x * y
 
         return result
 
